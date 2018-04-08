@@ -1353,7 +1353,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 11e6f7f366b011040bd23e14405a53a7, type: 3}
+  m_audioClip: {fileID: 8300000, guid: fb5ff37594db84b43a0c7c5e40af79da, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -1433,7 +1433,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: fb5ff37594db84b43a0c7c5e40af79da, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 11e6f7f366b011040bd23e14405a53a7, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -1510,7 +1510,7 @@ AudioSource:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 196280}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 26626f802355fab419e0ba9208c72ba9, type: 3}
@@ -1602,7 +1602,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: fb5ff37594db84b43a0c7c5e40af79da,
+          m_ObjectArgument: {fileID: 8300000, guid: 11e6f7f366b011040bd23e14405a53a7,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -1645,7 +1645,7 @@ MonoBehaviour:
         m_MethodName: PlayOneShot
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 8300000, guid: 11e6f7f366b011040bd23e14405a53a7,
+          m_ObjectArgument: {fileID: 8300000, guid: fb5ff37594db84b43a0c7c5e40af79da,
             type: 3}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
           m_IntArgument: 0
@@ -1662,13 +1662,13 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
   Period: 0.05
   HandModel: {fileID: 11422472}
-  Thumb: 0
-  Index: 0
+  Thumb: 2
+  Index: 1
   Middle: 1
-  Ring: 2
-  Pinky: 2
-  MinimumExtendedCount: 2
-  MaximumExtendedCount: 4
+  Ring: 1
+  Pinky: 1
+  MinimumExtendedCount: 0
+  MaximumExtendedCount: 1
   ShowGizmos: 1
 --- !u!114 &114874626284950102
 MonoBehaviour:
@@ -1676,7 +1676,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 196280}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e98e641d160144e87a3d33fcdb893a02, type: 3}
   m_Name: 
@@ -1705,11 +1705,11 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
   Period: 0.05
   HandModel: {fileID: 11422472}
-  Thumb: 0
+  Thumb: 2
   Index: 1
-  Middle: 0
-  Ring: 2
-  Pinky: 2
-  MinimumExtendedCount: 2
-  MaximumExtendedCount: 4
+  Middle: 1
+  Ring: 1
+  Pinky: 1
+  MinimumExtendedCount: 0
+  MaximumExtendedCount: 1
   ShowGizmos: 1

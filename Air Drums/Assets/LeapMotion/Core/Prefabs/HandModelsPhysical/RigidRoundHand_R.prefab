@@ -1662,13 +1662,13 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
   Period: 0.05
   HandModel: {fileID: 11406422}
-  Thumb: 0
+  Thumb: 2
   Index: 1
-  Middle: 0
-  Ring: 2
-  Pinky: 2
-  MinimumExtendedCount: 2
-  MaximumExtendedCount: 4
+  Middle: 1
+  Ring: 1
+  Pinky: 1
+  MinimumExtendedCount: 0
+  MaximumExtendedCount: 1
   ShowGizmos: 1
 --- !u!114 &114550755623346556
 MonoBehaviour:
@@ -1705,11 +1705,11 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
   Period: 0.05
   HandModel: {fileID: 11406422}
-  Thumb: 0
-  Index: 0
-  Middle: 1
-  Ring: 2
-  Pinky: 2
-  MinimumExtendedCount: 2
+  Thumb: 2
+  Index: 1
+  Middle: 0
+  Ring: 0
+  Pinky: 0
+  MinimumExtendedCount: 3
   MaximumExtendedCount: 4
   ShowGizmos: 1
