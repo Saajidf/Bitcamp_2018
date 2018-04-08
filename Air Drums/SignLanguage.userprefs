@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AudioScript.cs">
+    <Files>
+      <File FileName="Assets\LeapMotion\Core\Scripts\Attachments\AttachmentHands.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotion\Core\Scripts\DetectionUtilities\ExtendedFingerDetector.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotion\Core\Scripts\LeapPreferences.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotion\Core\Models\Materials\Hands\RigidHand.cs" Line="1" Column="1" />
+      <File FileName="Assets\AudioScript.cs" Line="22" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
