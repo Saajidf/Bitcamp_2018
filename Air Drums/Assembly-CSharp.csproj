@@ -249,7 +249,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>C:/Users/saaji/Documents/Bitcamp_2018/Bitcamp_2018/Air Drums/Assets/LeapMotion/Core/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>C:/Users/saaji/Documents/Bitcamp_2018/Air Drums/Assets/LeapMotion/Core/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>

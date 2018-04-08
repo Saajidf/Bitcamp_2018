@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{DB94AE3C-7FC9-57EA-7E25-9EA335565FAD}</ProjectGuid>
+    <ProjectGuid>{BFAB5C90-E485-1C7A-B9E7-2244F2FB5D93}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -153,7 +153,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>C:/Users/saaji/Documents/Leap-Motion/SignLanguage/Assets/LeapMotion/Core/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>C:/Users/saaji/Documents/Bitcamp_2018/Meme Machine/Assets/LeapMotion/Core/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/ProgramData/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
@@ -179,7 +179,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{77822D5B-1D91-799C-2F4C-1ECB8DECCFB8}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{8E91FF5B-BD9A-05EA-DF86-7D8F96E830BD}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

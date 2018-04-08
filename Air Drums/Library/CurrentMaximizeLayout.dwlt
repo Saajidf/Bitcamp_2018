@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 645
-  m_MinSize: {x: 581, y: 221}
-  m_MaxSize: {x: 12006, y: 8021}
+  m_MinSize: {x: 583, y: 242}
+  m_MaxSize: {x: 12008, y: 8042}
   vertical: 0
-  controlID: 1502
+  controlID: 95
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -120,8 +120,8 @@ MonoBehaviour:
     y: 0
     width: 698
     height: 645
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -225,10 +225,10 @@ MonoBehaviour:
     y: 0
     width: 391
     height: 645
-  m_MinSize: {x: 104, y: 221}
-  m_MaxSize: {x: 4004, y: 8021}
+  m_MinSize: {x: 104, y: 242}
+  m_MaxSize: {x: 4004, y: 8042}
   vertical: 1
-  controlID: 1478
+  controlID: 62
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -284,9 +284,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c6faffff
-    m_LastClickedID: -1338
-    m_ExpandedIDs: 84fbffff00000000ee2b0000fc2b0000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -512,8 +512,8 @@ MonoBehaviour:
     y: 0
     width: 277
     height: 645
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}

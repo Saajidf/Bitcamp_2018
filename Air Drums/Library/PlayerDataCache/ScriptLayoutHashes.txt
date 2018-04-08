@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-D:/Air Drums/test1.exe
+C:/Users/saaji/Documents/Bitcamp_2018/Air Drums/airDJ.exe
 SceneListBegin?
 Assets/Scene/Leap Hands Demo (Desktop).unity
 SceneListEnd?

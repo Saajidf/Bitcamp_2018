@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/saaji/Documents/SignLanguage/airDJ.exe
+C:/Users/saaji/Documents/Bitcamp_2018/Meme Machine/mememachine.exe
 SceneListBegin?
 Assets/Scene/Leap Hands Demo (Desktop).unity
 SceneListEnd?
