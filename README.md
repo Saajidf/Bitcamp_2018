@@ -5,8 +5,9 @@ Saajid Farooq,
 Sepehr Hajbarat,
  and Will Boodon
  
- 
 
+ 
+![AirDJLogo]()
 AirDJ is a unity based music development application  using leap motion allowing users to make beats with their bare hands.
 https://www.youtube.com/watch?v=KBGZVMRyLz0
 
